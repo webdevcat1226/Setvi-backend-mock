@@ -1,0 +1,39 @@
+{
+  "Data": [
+    {
+      "ID": 39,
+      "Name": "Clorox Promo",
+      "IsActive": true,
+      "Order": 0,
+      "CompanyID": 2042,
+      "LinkedContentType": 1,
+      "LinkedContentID": 3723,
+      "ResourceTypeID": 7,
+      "ResourceID": "BYXQ66",
+      "LinkedContentName": null,
+      "WebAppiPadBannerURL": "https://cdn.filestackcontent.com/WamZ7G2NT1CNF6mUpQnA",
+      "MobileBannerURL": "https://cdn.filestackcontent.com/8BIphfIAQNeTIPAX9gTh",
+      "ChangeByID": 3580,
+      "ChangeDate": "/Date(1590497193680)/"
+    },
+    {
+      "ID": 54,
+      "Name": "C1",
+      "IsActive": true,
+      "Order": 1,
+      "CompanyID": 2042,
+      "LinkedContentType": 0,
+      "LinkedContentID": 3253,
+      "ResourceTypeID": 0,
+      "ResourceID": null,
+      "LinkedContentName": null,
+      "WebAppiPadBannerURL": "https://cdn.filestackcontent.com/VAwZvfyIQ7WimaABBGCn",
+      "MobileBannerURL": "https://cdn.filestackcontent.com/rLgi3QM9RFiouxyn0rie",
+      "ChangeByID": 3580,
+      "ChangeDate": "/Date(1590497233217)/"
+    }
+  ],
+  "Total": 2,
+  "AggregateResults": null,
+  "Errors": null
+}
